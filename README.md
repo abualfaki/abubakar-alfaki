@@ -1,7 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
   <img src="https://i.gyazo.com/4f936cc65efd61d5c8fe5f62eb9c2a7b.png" alt="Alt text">
-</div>
-
+</p>
 
 <h1 align="center">Hi 👋, I'm Abubakar Al-faki.</h1>
 <h2 align="center" >I am a Business and Marketing Data Analyst</h2>
