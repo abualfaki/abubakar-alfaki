@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abubakar Al-faki.</h1>
-<h2>I am a Business and Marketing Data Analyst</h2>
+<h2 align="center" >I am a Business and Marketing Data Analyst</h2>
 <h3 align="center">I am currently working on uncovering customer segments that drive your highest ROI & lifetime value for pule lending company called Lendingclub.com</h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
