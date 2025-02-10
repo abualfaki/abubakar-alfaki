@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abubakar Al-faki</h1>
 <h3 align="center">I am currently working on uncovering customer segments that drive your highest ROI & lifetime value for pule lending company called Lendingclub.com</h3>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&l
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 - 🔭 I’m currently working on [customer segments that drive revenue growth](https://github.com/abualfaki/MPV1-analyzing_loan_data)
 
