@@ -5,7 +5,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-- 🔭 I’m currently working on [customer segments that drive revenue growth](https://github.com/abualfaki/MPV1-analyzing_loan_data)
+- 🔭 I’m currently working on identifying [customer segments that drive revenue growth](https://github.com/abualfaki/MPV1-analyzing_loan_data) for a lending company.
 
 - 🌱 I’m currently learning **about credit risk modelling in Python from Datacamp.com**
 
