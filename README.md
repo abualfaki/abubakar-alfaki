@@ -1,3 +1,5 @@
+https://gyazo.com/4f936cc65efd61d5c8fe5f62eb9c2a7b
+
 <h1 align="center">Hi 👋, I'm Abubakar Al-faki.</h1>
 <h2 align="center" >I am a Business and Marketing Data Analyst</h2>
 <h3 align="center">I am currently working on uncovering customer segments that drive your highest ROI & lifetime value for pule lending company called Lendingclub.com</h3>
