@@ -3,11 +3,12 @@
 </p>
 
 
-<h2 align="center" >I am a Business and Marketing Data Analyst </h2>
+
 
 <div align = "center">
+  <h2 align="center" >I am a Business and Marketing Data Analyst </h2>
   <p>
-    - I specialize in uncovering the customer segments that drive the highest ROI & lifetime value.
+    I specialize in uncovering the customer segments that drive the highest ROI & lifetime value.
   </p>
 
   <p align = "center">
